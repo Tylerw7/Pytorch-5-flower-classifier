@@ -13,7 +13,7 @@
 
 This project is a **deep learning-based flower classification system** built using **PyTorch** and **Transfer Learning** with a pretrained **ResNet50** model.
 
-The classifier is trained to recognize **five flower species**:
+The classifier is trained to recognize **five flower species**: 
 
 - 🌼 Daisy  
 - 🌻 Sunflower  
